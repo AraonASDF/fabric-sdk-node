@@ -1,1 +1,1 @@
-SM algo for nodejs sdk
+add SM algo to nodejs sdk
