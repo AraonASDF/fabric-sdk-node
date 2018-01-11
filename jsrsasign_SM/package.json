@@ -1,0 +1,16 @@
+{
+  "name": "jsrsasign_SM",
+  "main": "lib/jsrsasign.js",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjur/jsrsasign.git"
+  },
+  "dependencies": {},
+  "license": "MIT",
+  "_requiredBy": [
+    "#DEV:/",
+    "/fabric-ca-client",
+    "/fabric-client"
+  ]
+}

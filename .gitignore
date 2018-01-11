@@ -1,0 +1,8 @@
+*/.DS_Store
+.DS_Store
+*/.idea/
+.idea/
+*.iml
+*/*.iml
+*.log
+*/node_modules/
